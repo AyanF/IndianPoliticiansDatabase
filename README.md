@@ -106,7 +106,7 @@ pk refers to the primary key , add the primary key at the end of the url to send
 
 
 
-6./api/politiciansWorkRatings
+7./api/politiciansWorkRatings
 
 Displays work ratings of all works by all politicians with GET request & inserts new work ratings when used with POST request. (can be used to read and write data)
 
